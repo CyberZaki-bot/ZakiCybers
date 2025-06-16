@@ -1,4 +1,4 @@
-# Cyber Security
+
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -79,11 +79,6 @@
   <button class="btn" onclick="location.href='https://wa.me/6283138402806'">Hubungi via WhatsApp</button>
 
   <div class="box">
-    <p><strong>DIBUAT OLEH: KII</strong></p>
+    <p><strong>DIBUAT OLEH: KII.</strong></p>
     <p>DIDUKUNG: BERITAPAYAKUMBUHH</p>
-    <p>SEMUA HAK CIPTA DILINDUNGI UNDANG-UNDANG</p>
-    <p><em>NOTE: Jika Anda membutuhkan kami atau ingin memakai jasa kami, segera hubungi kontak di atas.</em></p>
-  </div>
-
-</body>
-</html>
+    <p>SEMUA HAK CIPTA DILINDUNGI UNDANG-UNDANG</
